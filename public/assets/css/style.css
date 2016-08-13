@@ -1,0 +1,6 @@
+.map-container{width: 800px; height: 500px;}
+
+.fr-marker-asset { display: block; width: 48px; height: 48px; z-index: 9999 !important; border: 2px solid #fda132; border-radius: 48px; animation: pulsate 1.5s ease-out 3s normal none  infinite running; opacity: 0;  box-sizing: border-box; content: ""; position: absolute; top: 0; left: 0 }
+.fr-marker-stationary, .fr-poi { animation: none }
+
+

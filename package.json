@@ -1,0 +1,26 @@
+{
+  "name": "node-client-server",
+  "version": "1.0.0",
+  "description": "Socket Client which will connect to a Secure Socket Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsashis4u/node-client-server.git"
+  },
+  "author": "Ashish Kumar Badtiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsashis4u/node-client-server/issues"
+  },
+  "homepage": "https://github.com/itsashis4u/node-client-server#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "moment": "^2.14.1",
+    "mongoose": "^4.5.8",
+    "socket.io": "^1.4.8"
+  }
+}
